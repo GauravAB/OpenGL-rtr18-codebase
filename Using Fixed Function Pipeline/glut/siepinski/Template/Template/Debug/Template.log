@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\siepinski\template\template\source.cpp(159): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\siepinski\template\template\source.cpp(160): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  Template.vcxproj -> D:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Fixed Function Pipeline\glut\siepinski\Template\Debug\Template.exe

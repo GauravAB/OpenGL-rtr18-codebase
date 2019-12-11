@@ -1,0 +1,3 @@
+
+#define MYBITMAP 101
+

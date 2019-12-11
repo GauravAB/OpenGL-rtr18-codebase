@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  Template.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(17): error C3861: 'glutInit': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(18): error C2065: 'GLUT_SINGLE': undeclared identifier
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(18): error C2065: 'GLUT_RGB': undeclared identifier
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(18): error C3861: 'glutInitDisplayMode': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(19): error C3861: 'glutInitWindowPosition': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(20): error C3861: 'glutInitWindowSize': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(21): error C3861: 'glutCreateWindow': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(25): error C3861: 'glutDisplayFunc': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(26): error C3861: 'glutKeyboardFunc': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(27): error C3861: 'glutReshapeFunc': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(30): error C3861: 'glutMainLoop': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(37): error C2065: 'GL_COLOR_BUFFER_BIT': undeclared identifier
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(37): error C3861: 'glClear': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(38): error C3861: 'glFlush': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(45): error C2065: 'GLsizei': undeclared identifier
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(45): error C2146: syntax error: missing ')' before identifier 'width'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(45): error C3861: 'glViewport': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(45): error C2146: syntax error: missing ';' before identifier 'width'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(45): error C2146: syntax error: missing ';' before identifier 'height'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(45): error C2059: syntax error: ')'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(47): error C2065: 'GL_PROJECTION_MATRIX': undeclared identifier
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(47): error C3861: 'glMatrixMode': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(48): error C3861: 'glLoadIdentity': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(50): error C3861: 'gluOrtho2D': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(52): error C2065: 'GL_MODELVIEW': undeclared identifier
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(52): error C3861: 'glMatrixMode': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(53): error C3861: 'glLoadIdentity': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(64): error C3861: 'glutFullScreen': identifier not found
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using fixed function pipeline\glut\template\template.cpp(67): error C3861: 'glutLeaveMainLoop': identifier not found

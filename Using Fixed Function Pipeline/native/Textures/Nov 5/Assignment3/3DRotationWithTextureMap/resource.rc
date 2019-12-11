@@ -1,0 +1,4 @@
+#include "resource.h"
+
+MYBITMAP BITMAP Smiley.bmp
+MYBITMAP1 BITMAP wooden1.bmp
