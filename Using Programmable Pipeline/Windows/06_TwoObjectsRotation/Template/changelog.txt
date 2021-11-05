@@ -1,0 +1,12 @@
+changes made from perspective code:
+
+1)	global angle variables created
+		
+
+2)	Added Rotation Matrix , set it to identity
+
+3)	multiply with current transformation
+
+4)	switch off culling in initialize
+	
+5)	create update funtion to update the angles

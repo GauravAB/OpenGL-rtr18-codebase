@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\tessellation shader\utah teapot\template\template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\tessellation shader\utah teapot\template\template\teapot.h(325): warning C4838: conversion from 'double' to 'const float' requires a narrowing conversion
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\tessellation shader\utah teapot\template\template\teapot.h(325): warning C4305: 'initializing': truncation from 'double' to 'const float'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\tessellation shader\utah teapot\template\template\source.cpp(414): warning C4305: '+=': truncation from 'double' to 'float'
+  Template.vcxproj -> D:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\Tessellation shader\utah teapot\Template\Debug\Template.exe

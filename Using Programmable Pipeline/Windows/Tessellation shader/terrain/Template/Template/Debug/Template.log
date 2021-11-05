@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\tessellation shader\triangle\template\template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\tessellation shader\triangle\template\template\source.cpp(406): warning C4305: '+=': truncation from 'double' to 'float'
+  Template.vcxproj -> D:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\Tessellation shader\triangle\Template\Debug\Template.exe

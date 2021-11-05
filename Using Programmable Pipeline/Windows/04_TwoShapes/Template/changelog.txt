@@ -1,0 +1,10 @@
+changes from perspective code:
+
+1)created new vertex array object amd vertex buffer object as vao_square vbo_square
+
+2)created data array as squareVertices
+
+3)created new vertex array object for square and followed same steps from triangle procedure
+
+4)In display played bith vaos after resetting matrices to identity
+

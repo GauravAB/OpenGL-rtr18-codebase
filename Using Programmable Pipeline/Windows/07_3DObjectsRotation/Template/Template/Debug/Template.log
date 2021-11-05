@@ -1,0 +1,4 @@
+﻿  practice1.cpp
+d:\visual studio\codebase\rtr-course 2018\opengl\assignments rtr\assignments\using programmable pipeline\native\07_3dobjectsrotation\template\template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Template.vcxproj -> D:\visual studio\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\assignments\Using Programmable Pipeline\Native\07_3DObjectsRotation\Template\Debug\Template.exe
+  Template.vcxproj -> D:\visual studio\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\assignments\Using Programmable Pipeline\Native\07_3DObjectsRotation\Template\Debug\Template.pdb (Full PDB)

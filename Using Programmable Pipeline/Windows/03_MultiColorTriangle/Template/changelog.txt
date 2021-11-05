@@ -1,0 +1,11 @@
+changes made from perspective code:
+
+1)	changed gVbo -> gVbo_Pos
+	created new gVbo as gVbo_Color
+
+2)	created vbo_color array for RGB multicolor 
+
+3)	Did the 6 step procedure for vbo_color just like vbo_pos
+
+4)	uninitialize vbp_color
+

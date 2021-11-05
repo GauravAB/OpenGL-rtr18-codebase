@@ -1,0 +1,4 @@
+#include "resource.h"
+
+ID_BITMAP_SATURN BITMAP saturn.bmp
+ 

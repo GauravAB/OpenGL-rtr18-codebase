@@ -1,0 +1,4 @@
+#define MYBITMAP1 101
+#define MYBITMAP2 102
+#define MYBITMAP3 103
+

@@ -1,0 +1,9 @@
+changes made from perspective code:
+
+1) create angles for pyramid and cube rotation
+2) cube vertices and cube color
+3) same for pyramid
+4) use polymorphic rotate call : rotate(angle,angle,angle);
+5) DrawTriangles: in fan mode , 12 vertices for pyramid
+				0,4,8,12,16,20 for cube
+

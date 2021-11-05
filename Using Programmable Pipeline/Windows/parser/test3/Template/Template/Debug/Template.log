@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\native\parser\test3\template\template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Template.vcxproj -> D:\dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Native\parser\test3\Template\Debug\Template.exe
+  Template.vcxproj -> D:\dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Native\parser\test3\Template\Debug\Template.pdb (Full PDB)

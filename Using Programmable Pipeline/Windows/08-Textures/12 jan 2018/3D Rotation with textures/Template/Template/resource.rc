@@ -1,0 +1,6 @@
+#include "resource.h"
+
+MYBITMAP3 BITMAP jupiterPlanet.bmp
+
+
+

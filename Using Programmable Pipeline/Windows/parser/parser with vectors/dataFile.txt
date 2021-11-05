@@ -1,0 +1,4 @@
+number of vertices: 542
+number of textures: 627
+number of normals : 584
+number of indices : 1080

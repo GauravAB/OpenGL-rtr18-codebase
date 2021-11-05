@@ -1,0 +1,19 @@
+﻿  shader.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\shader.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\shader.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\shader.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\shader.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\shader.cpp(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\shader.cpp(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Source.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\source.cpp(467): warning C4305: '+=': truncation from 'double' to 'float'
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\windows\geometry shader\quad tessellation\template\template\source.cpp(460): warning C4930: 'vmath::mat3 getUpper3x3(vmath::mat4)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+  Template.vcxproj -> D:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\Geometry Shader\Quad Tessellation\Template\Debug\Template.exe

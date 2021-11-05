@@ -1,0 +1,2 @@
+Log File Created Success
+OpenGL Version: 4.6.0 NVIDIA 390.65

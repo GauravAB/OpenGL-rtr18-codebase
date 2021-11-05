@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\native\08-textures\12 jan 2018\tweaksmiley\template\template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dev\codebase\rtr-course 2018\opengl\assignments rtr\using programmable pipeline\native\08-textures\12 jan 2018\tweaksmiley\template\template\source.cpp(174): warning C4553: '==': operator has no effect; did you intend '='?
+  Template.vcxproj -> D:\dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Native\08-Textures\12 jan 2018\TweakSmiley\Template\Debug\Template.exe
+  Template.vcxproj -> D:\dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Native\08-Textures\12 jan 2018\TweakSmiley\Template\Debug\Template.pdb (Full PDB)

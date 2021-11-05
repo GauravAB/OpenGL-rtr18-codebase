@@ -1,0 +1,21 @@
+changes made from perspective code:
+
+1)	created gVbo -> gVbo_Traingle_Pos
+	created new gVbo as gVbo_Triangle_Color
+	created gVbo -> gVbo_Square_Pos
+		
+
+2)	created vbo_color array for RGB multicolor 
+
+3)	Did the 6 step procedure for vbo_color just like vbo_pos
+
+4)	same for square except its color
+
+	used glVertexAttrib3f(index,x,y,z) for coloring square
+	
+5)	uninitialize all buffers
+
+NOTE://TO DO 
+	The program crashes after the usage of glEnableVertexAttribArray(index)
+	Need to search why is it crashing
+

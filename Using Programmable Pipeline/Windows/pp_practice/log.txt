@@ -1,0 +1,4 @@
+Log file is successfully created
+major version :4
+ minor version: 4
+glsl version: 4.40 - Build 21.20.16.4550 Log file is successfully closed

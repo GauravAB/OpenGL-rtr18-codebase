@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\01_orthogonalTriangle\Template\Template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\01_orthogonalTriangle\Template\Template\Source.cpp(355): warning C4101: 'hdc': unreferenced local variable
+E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\01_orthogonalTriangle\Template\Template\Source.cpp(356): warning C4101: 'ps': unreferenced local variable
+E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\01_orthogonalTriangle\Template\Template\Source.cpp(357): warning C4101: 'rect': unreferenced local variable
+  Template.vcxproj -> E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\01_orthogonalTriangle\Template\Debug\Template.exe

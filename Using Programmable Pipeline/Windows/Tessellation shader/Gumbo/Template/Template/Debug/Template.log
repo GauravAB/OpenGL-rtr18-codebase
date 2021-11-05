@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\Tessellation shader\Gumbo\Template\Template\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\Tessellation shader\Gumbo\Template\Template\Source.cpp(432): warning C4305: '+=': truncation from 'double' to 'float'
+  Template.vcxproj -> E:\Dev\CodeBase\RTR-course 2018\OpenGL\Assignments RTR\Using Programmable Pipeline\Windows\Tessellation shader\Gumbo\Template\Debug\Template.exe
